@@ -1,0 +1,2 @@
+Rejected record 3: Marks must contain exactly 3 values between 0 and 100.
+Rejected record 4: Duplicate student ID: S101
